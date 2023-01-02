@@ -149,6 +149,14 @@ footer {
     font-size: 32px;
     gap: 15px;
 }
+.support_btn button{
+    margin-top: 4px;
+    color: black;
+    margin-left: 6px;
+    background-color: lightyellow;
+    padding: 3px;
+    border-radius: 10px;
+}
 @media (max-width: 800px) {
     .hero {
         flex-direction: column;
